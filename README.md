@@ -1,5 +1,18 @@
 # InstrumentoEvaluacion
 UNIDAD 1: INSTRUMENTO DE EVALUACIÓN
+## Ejercicio 1: Almacenamiento de Datos (15 puntos)
+Diseña un sistema IoT que capture datos desde un sensor (libre elección) y los almacene en: Base de datos PostgreSQL mediante Node-RED.
+
+## Ejercicio 2: Control de Actuadores (15 puntos)
+Diseña un sistema IoT que controle un actuador (LED, servomotor, buzzer, etc.) basado en la lectura de un sensor o entrada.
+
+## Ejercicio 3: Circuito funcional en placa fenólica
+Soldar cada uno de los puntos en la placa fenólica con alambre
+
+## Ejercicio 4: Figura 2D o 3D soldada
+Figura de libre elección donde se requieren 40 puntos de soldadura
+
+## Ejercicios en clase: videos demostrativos
 
 ## Fundamentos de Python
 ### Módulo 1
