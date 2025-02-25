@@ -11,6 +11,8 @@ https://drive.google.com/file/d/13h6l70lsNhZO2WpNLZr-8iCy5hLAWTVM/view?usp=shari
 ## Ejercicios en clase: videos demostrativos
 ### 1. CRUD en PostgreSQL: Realización de operaciones de base de datos desde Node-RED o Python.
 https://drive.google.com/file/d/1c1DECtK5xE5e46PStBjOAutPqSNonZA4/view?usp=sharing
+### Flujo del CRUD en node-red
+https://drive.google.com/file/d/13_iWa416RsscaZGhvwWSzDi0jmlxDKGq/view?usp=sharing
 
 ### 2. Instalaciones y Configuraciones Básicas: Configuración inicial de Raspberry Pi, PostgreSQL, Node-RED y Mosquitto.
 ![image](https://github.com/user-attachments/assets/c9077d3a-9944-4567-8090-984803556365)
