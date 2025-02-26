@@ -11,8 +11,7 @@ https://drive.google.com/file/d/13h6l70lsNhZO2WpNLZr-8iCy5hLAWTVM/view?usp=shari
 ## Ejercicios en clase: videos demostrativos
 ### 1. CRUD en PostgreSQL: Realización de operaciones de base de datos desde Node-RED o Python.
 https://drive.google.com/file/d/1c1DECtK5xE5e46PStBjOAutPqSNonZA4/view?usp=sharing
-### Flujo del CRUD en node-red
-https://drive.google.com/file/d/13_iWa416RsscaZGhvwWSzDi0jmlxDKGq/view?usp=sharing
+#### Flujo del CRUD en node-red https://drive.google.com/file/d/13_iWa416RsscaZGhvwWSzDi0jmlxDKGq/view?usp=sharing
 
 ### 2. Instalaciones y Configuraciones Básicas: Configuración inicial de Raspberry Pi, PostgreSQL, Node-RED y Mosquitto.
 ![image](https://github.com/user-attachments/assets/c9077d3a-9944-4567-8090-984803556365)
@@ -26,7 +25,9 @@ led sin el botón -> https://drive.google.com/file/d/1BVCiIl3tKHz-y_fvcIC9d4dpPE
 
 ### 4. Conexión MQTT en Node-RED: Configuración de un sistema de publicación y suscripción con Mosquitto.
 https://drive.google.com/file/d/1_WFT1_70N2Wj0SptojWrfKt1FpoTQ4Vt/view?usp=sharing
+#### Flujo node-red https://drive.google.com/file/d/1YE4PoagheXWEhOOoyxUZ_LwmUrtde-Fc/view?usp=sharing
 ![image](https://github.com/user-attachments/assets/66b8ee22-803b-4a4d-a2b0-42ac46803112)
+
 
 ## Ejercicio 3: Circuito funcional en placa fenólica
 Soldar cada uno de los puntos en la placa fenólica con alambre
